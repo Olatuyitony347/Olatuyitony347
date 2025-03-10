@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ss.png" alt="Tcode Banner"/>
+  <img src="ss.png" alt="https://i.postimg.cc/k5pNdjxz/ss.png"/>
 </div>
 
 # 👋 Hi, I'm Tcode
